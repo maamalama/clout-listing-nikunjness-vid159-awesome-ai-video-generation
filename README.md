@@ -56,6 +56,7 @@ AI video generation moved from research demos to production workflows between 20
 
 Tools that accept combinations of text, reference images, reference video, and audio in a single workflow.
 
+- [Clout](https://tryclout.ai/) — Browser-based AI character creation, image and video generation, and faceless content workflows.
 - [Wan 2.6 (Alibaba)](https://www.alibabacloud.com/help/en/model-studio/use-video-generation) — Multi-shot video generation with reference video, voice cloning, and 15-second native audio output.
 - [Seedance 2.0 (ByteDance)](https://seed.bytedance.com/en/seedance2_0) — Unified text + image generation with synchronized audio in a single inference pass; restricted to non-US regions as of April 2026.
 - [Veo 3.1 (Google)](https://deepmind.google/models/veo/) — Native synced audio, scene extension beyond 60 seconds, and reference-image conditioning via Gemini API.
